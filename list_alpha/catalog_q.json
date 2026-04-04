@@ -1,0 +1,3810 @@
+[
+  {
+    "id": "custom_77375440d7",
+    "type": "movie",
+    "name": "Quadrophenia.1979.criado.6ch.rmz.Bluray.1080p.Dual.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_44df3e3d9a",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E01.Nikola.the.Servant.Girl.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_15b92536f3",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E01.Nikola.the.Servant.Girl.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_18172cce69",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E02.Haga.Makoto.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4f1d4f4942",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E02.Haga.Makoto.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d41a902b04",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E03.Tesla.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a24349d83c",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E03.Tesla.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_49d6335b3a",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E04.Isora.Amano.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9d75d2d005",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E04.Isora.Amano.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_10fa6f9caa",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E05.Infiltration.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5107c996fd",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E05.Infiltration.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_bf0cbb84e3",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E06.The.Mad.King.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5820aabcbf",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E06.The.Mad.King.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cc42b8c9bf",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E07.The.Boss.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5decfd311a",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E07.The.Boss.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b31873b9b6",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E08.Console.Command.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_049ce67955",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E08.Console.Command.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1844ce4026",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E09.Akira.Kagami.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4d650688c5",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E09.Akira.Kagami.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b15ed1d5a4",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E10.Gaydle.and.Yamanaka.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_547d5f7099",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E10.Gaydle.and.Yamanaka.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5725b37afb",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E11.Alba.1080p.CR.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_46dd979a82",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E11.Alba.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ce498040cd",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E12.1080p.CR.AAC2.0.H.264.DUAL-Lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_81589c0e82",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E12.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-Lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_15d1bc2879",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E13.Silence.1080p.CR.AAC2.0.H.264.DUAL-Lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_75793be90d",
+    "type": "movie",
+    "name": "Quality.Assurance.in.Another.World.S01E13.Silence.1080p.CR.WEB-DL.AAC2.0.H.264.DUAL-Lucano22.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_722b62dc35",
+    "type": "movie",
+    "name": "Qualquer Gato Vira Lata 2 2015 Nacional 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_519d6b0e2a",
+    "type": "movie",
+    "name": "Quando a Turma Sai de F\u00e9rias - A Primeira Transa de Um Nerd 1985 Trial audio BDRip 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ec812c6d71",
+    "type": "movie",
+    "name": "Quando a Vida Acontece 2020 720p 6CH x264 DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_09b61936df",
+    "type": "movie",
+    "name": "Quando as Luzes se Apagam 2016 Dual Audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_46fb5397a7",
+    "type": "movie",
+    "name": "Quando Estranhos Chegam 2001 2gb Dual criado6ch rmz webdl 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_efaa8c556e",
+    "type": "movie",
+    "name": "Quando Explode a Vingan\u00e7a (Duck You Sucker_Gi\u00f9 la testa 1971) Dual \u00c1udio Bluray 1080p-CaNNIbal.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_451fcd56f9",
+    "type": "movie",
+    "name": "Quando Me Apaixono 1988 rmz dual 1080p webrip.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4e4a07b970",
+    "type": "movie",
+    "name": "Quando nos Conhecemos 2018 1080p WEB-DL 6CH x264 DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cbd547df36",
+    "type": "movie",
+    "name": "Quando o Sol se Poe 2020 1080p WEBRip x264.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_55c77a111f",
+    "type": "movie",
+    "name": "Quando os Anjos Dormem 2018 Dual audio 720p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b9b6fe2cb5",
+    "type": "movie",
+    "name": "Quando Paris Alucina 1964 Dual \u00c1udio WEB-DL 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_278653dd5f",
+    "type": "movie",
+    "name": "Quando te Conheci.2016.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0a2507b2ba",
+    "type": "movie",
+    "name": "Quando Um Estranho Chama BluRay 720p AC3 5.1.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a22872c819",
+    "type": "movie",
+    "name": "Quando Um Homem Ama Uma Mulher.1994.HDTV.720p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_832907ebb5",
+    "type": "movie",
+    "name": "Quando Voce Chegou 2020 Dual audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_857e60adc2",
+    "type": "movie",
+    "name": "Quando Voce Menos Espera 2020 Dual audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7a5d4f63df",
+    "type": "movie",
+    "name": "Quando.a.Vida.Acontece.2020.1080p.NF.WEB-DL.DD5.1.x264-PiA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e926cd0ffc",
+    "type": "movie",
+    "name": "Quando.Surge.O.Amor.1998.1080p.NF.WEB-DL.DDP5.1.H264-Ledneks.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_da650a9dc4",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E01.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_99478339ee",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E01.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e933a858f9",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E02.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7454b5603c",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E02.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6609682792",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E03.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c026965ef6",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E03.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_01cfd2c7f1",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E04.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0320e737d5",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E04.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e498470560",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E05.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1a7c88aec6",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E05.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_411d1b8cfc",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E06.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8aecdc1dc7",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E06.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b8c15399e1",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E07.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e763b02259",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E07.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e62b55d811",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E08.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_72ba8b54bd",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E08.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_add96baf79",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E09.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cd0176f65f",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E09.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_81c9da2060",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E10.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9914702fb4",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E10.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_36efdc3e7b",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E11.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9dc1c138ab",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E11.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_585710ebf0",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E12.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2405743d01",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E12.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cddad7d174",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E13.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c32e6bd555",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E13.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_424d6ad8d5",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E14.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_42f4db49da",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E14.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fa70f61ef5",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E15.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_57a8b97e4e",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E15.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9274d7f1fc",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E16.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b37605bc21",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E16.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6fff85d41c",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E17.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_72e193b295",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E17.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5d349ada12",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E18.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1a383be192",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E18.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_eefa9727ec",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E19.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9da5d042cd",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E19.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e23e2ffe5a",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E20.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_96cccd5fab",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E20.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b5221dbbe4",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E21.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_08dffca5cf",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E21.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8ff61f4ee6",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E22.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_dc99c8023c",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E22.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ea39814133",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E23.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_77678d2594",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E23.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d902fb7267",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E24.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_59b7550da7",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E24.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_231a03d8d6",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E25.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7b58e6391d",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E25.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cc75ad05a0",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E26.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6f10e69980",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E26.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_063d1e6bb9",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E27.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5685bb6d75",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E27.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3b6167b105",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E28.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fa78d6c70a",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E28.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f56bfeab89",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E29.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7987b9aef8",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E29.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a59f0e993e",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E30.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d84e2cdd9e",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E30.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fe8aed6c2d",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E31.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_34e84f15a4",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E31.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a57df8c9b1",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E32.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_725924ca2e",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E32.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e6ca068558",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E33.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fd628de936",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E33.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_23f5aaabc9",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E34.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e945b63879",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E34.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8e63a13a45",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E35.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_742c522013",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E35.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_932c71675a",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E36.DSNP.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0d12eed1ed",
+    "type": "movie",
+    "name": "Quando.Toca.O.Sino.S01E36.DSNP.WEB-DL.AAC2.0.H.264-AndersonDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_dd8d20f9f4",
+    "type": "movie",
+    "name": "Quando.Tudo.Parece.Perdido.2017.DVDRip.XViD.Dual.Audio-WWW.COMANDOTORRENTS.COM.avi",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_958f306126",
+    "type": "movie",
+    "name": "Quanto Vale 2021 WEB-DL 1080p DUAL 5.1.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fb70e5d6a7",
+    "type": "movie",
+    "name": "Quanto.Mais.Idiota.Melhor.1.1992.Rmz.Brrip.1080p.Dual.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c36ec655e1",
+    "type": "movie",
+    "name": "Quanto.Mais.Idiota.Melhor.2.1993.Rmz.3audio.1080.BRRip.criado.6ch.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5dc7a7128b",
+    "type": "movie",
+    "name": "Quanzhi Fashi 01 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f503cce629",
+    "type": "movie",
+    "name": "Quanzhi Fashi 02 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c4cf185392",
+    "type": "movie",
+    "name": "Quanzhi Fashi 03 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a561c4fc57",
+    "type": "movie",
+    "name": "Quanzhi Fashi 04 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6abeb4e7b3",
+    "type": "movie",
+    "name": "Quanzhi Fashi 05 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4856660ec2",
+    "type": "movie",
+    "name": "Quanzhi Fashi 06 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e25747dfe2",
+    "type": "movie",
+    "name": "Quanzhi Fashi 07 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0950801c91",
+    "type": "movie",
+    "name": "Quanzhi Fashi 08 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c32289baf0",
+    "type": "movie",
+    "name": "Quanzhi Fashi 09 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_42e005f4d5",
+    "type": "movie",
+    "name": "Quanzhi Fashi 10 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1121f881d8",
+    "type": "movie",
+    "name": "Quanzhi Fashi 11 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e6f121c5d3",
+    "type": "movie",
+    "name": "Quanzhi Fashi 12 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a87cf2ae83",
+    "type": "movie",
+    "name": "Quanzhi Fashi 13 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_34ed3f539d",
+    "type": "movie",
+    "name": "Quanzhi Fashi 14 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_16df7a03a7",
+    "type": "movie",
+    "name": "Quanzhi Fashi 15 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_32eb3cd7cb",
+    "type": "movie",
+    "name": "Quanzhi Fashi 16 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_393685ee7a",
+    "type": "movie",
+    "name": "Quanzhi Fashi 17 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cf8cce6d97",
+    "type": "movie",
+    "name": "Quanzhi Fashi 18 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_399d1a3638",
+    "type": "movie",
+    "name": "Quanzhi Fashi 19 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_91f325e0e9",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 01.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e525f011b2",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 02.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b816a7e9e8",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 03.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3332a69a99",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 04.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_481728f887",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 05.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_681417db71",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 06.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_710db096fb",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 07.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d9d5b0d99f",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 08.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d4c89db95e",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 09.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_672cf99dcd",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 10.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e46ee24cbf",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 11.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_58e17c790d",
+    "type": "movie",
+    "name": "Quanzhi Fashi 2 - 12.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_85a7d3c837",
+    "type": "movie",
+    "name": "Quanzhi Fashi 20 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6a95d84253",
+    "type": "movie",
+    "name": "Quanzhi Fashi 21 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_41c28c61a8",
+    "type": "movie",
+    "name": "Quanzhi Fashi 22 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5b5fb1d348",
+    "type": "movie",
+    "name": "Quanzhi Fashi 23 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1149e01cd9",
+    "type": "movie",
+    "name": "Quanzhi Fashi 24 [YusukeFLA] V2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_43b5912b10",
+    "type": "movie",
+    "name": "Quanzhi Fashi 25 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_230b49eb8b",
+    "type": "movie",
+    "name": "Quanzhi Fashi 26 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7da6cedb01",
+    "type": "movie",
+    "name": "Quanzhi Fashi 27 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_522c0057db",
+    "type": "movie",
+    "name": "Quanzhi Fashi 28 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4f93789c5b",
+    "type": "movie",
+    "name": "Quanzhi Fashi 29 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_11605470f5",
+    "type": "movie",
+    "name": "Quanzhi Fashi 30 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_34442b5a8e",
+    "type": "movie",
+    "name": "Quanzhi Fashi 31 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7bc6f84634",
+    "type": "movie",
+    "name": "Quanzhi Fashi 32 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_319ab9ea71",
+    "type": "movie",
+    "name": "Quanzhi Fashi 33 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2c8ba074f6",
+    "type": "movie",
+    "name": "Quanzhi Fashi 34 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b02ec7c391",
+    "type": "movie",
+    "name": "Quanzhi Fashi 35 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_da37da133a",
+    "type": "movie",
+    "name": "Quanzhi Fashi 36 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d8da12cb3a",
+    "type": "movie",
+    "name": "Quanzhi Fashi 37 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8ba62c1589",
+    "type": "movie",
+    "name": "Quanzhi Fashi 38 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4ea276dcb9",
+    "type": "movie",
+    "name": "Quanzhi Fashi 39 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b93029dc6d",
+    "type": "movie",
+    "name": "Quanzhi Fashi 40 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c504a6ce96",
+    "type": "movie",
+    "name": "Quanzhi Fashi 41 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4fb2ebea7a",
+    "type": "movie",
+    "name": "Quanzhi Fashi 42 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6416dcee43",
+    "type": "movie",
+    "name": "Quanzhi Fashi 43 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3c2386e29c",
+    "type": "movie",
+    "name": "Quanzhi Fashi 44 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9bd04b68a3",
+    "type": "movie",
+    "name": "Quanzhi Fashi 45 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e84b04435a",
+    "type": "movie",
+    "name": "Quanzhi Fashi 46 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b1d4d31aaa",
+    "type": "movie",
+    "name": "Quanzhi Fashi 47 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_06db5099e1",
+    "type": "movie",
+    "name": "Quanzhi Fashi 48 [YusukeFLA].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_df4faf482b",
+    "type": "movie",
+    "name": "Quarantine.2008.1080p.BRRip.AC3.x264.DUAL-ASM.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_81220b89bd",
+    "type": "movie",
+    "name": "Quarentena 2 Terminal 2011 1080p WEB-DL DDP5 1 H 264 Dual.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4e69866f10",
+    "type": "movie",
+    "name": "Quarent\u00e3o 2022 1080p WEB-DL DUAL 5.1.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cb1ace875e",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E01.1080p.DSCP.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_dca596d77f",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E01.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d7cd8f05fb",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E02.1080p.DSCP.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_bcda2f6f8e",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E02.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_42cd888ec3",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E03.1080p.DSCP.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8b09e48b09",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E03.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9b46aa8880",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E04.1080p.DSCP.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8ffa455632",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S01E04.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_467282f03a",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E01.1080p.DSCP.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_96757863e4",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E01.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_590dfa488c",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E02.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c1e2887332",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E03.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_aafeae307b",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E04.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1f910f381c",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E05.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b243f86649",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S02E06.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d95672002d",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E01.1080p.DSCP.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7b7d3f9a89",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E01.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_67fc1d65d3",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E02.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3205bc1a08",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E03.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_82db4ec8cb",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E04.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_14337b788d",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E05.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6e53459a5d",
+    "type": "movie",
+    "name": "Quartel.da.Sucata S03E06.1080p.DSCP.WEB-DL.AAC2.0.H.264-Asy.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f1e3b46354",
+    "type": "movie",
+    "name": "Quarteto Fant\u00e1stico (1978) - S01E08 - O Doutor Doom.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5ab6b0de47",
+    "type": "movie",
+    "name": "Quarteto Fant\u00e1stico 2005 BluRay 1080p Dublado.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5ab6b0de47",
+    "type": "movie",
+    "name": "Quarteto Fant\u00e1stico 2005 BluRay 1080p Dublado.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_74fe381450",
+    "type": "movie",
+    "name": "Quarteto Fant\u00e1stico e O Surfista Prateado (2007) 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fd7e3f8dfa",
+    "type": "movie",
+    "name": "Quarteto.Amigo.2019.1080p.WEB-DL.x264-DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_457b9e82dd",
+    "type": "movie",
+    "name": "Quarto de Guerra (2015) 5.1 CH Dublado 1080p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7f5c9da30d",
+    "type": "movie",
+    "name": "Quase 18 2017 1080p BluRay DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7f5c9da30d",
+    "type": "movie",
+    "name": "Quase 18 2017 1080p BluRay DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_bdf0980f68",
+    "type": "movie",
+    "name": "Quase Deuses 2004 Dual-audio 720p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3d9543c1dd",
+    "type": "movie",
+    "name": "Quase Famosos 2000 rmz 720p Dub.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_14794d0d3b",
+    "type": "movie",
+    "name": "Quase Ilegal 2003 DVDRip XViD DUBLADO.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2a3100a72e",
+    "type": "movie",
+    "name": "Quase Irmaos  2008 Dual audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_db424cffe8",
+    "type": "movie",
+    "name": "Quase Lendas 2017 HDRip XViD DUBLADO.avi",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a1a1513821",
+    "type": "movie",
+    "name": "Quase sem Destino 1990 (Trial \u00c0udio-Dublado) WEB-DL 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ef206a973f",
+    "type": "movie",
+    "name": "Quase Uma Rockstar 2020 720p  6CH DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3cbe2f8fa0",
+    "type": "movie",
+    "name": "Quase Uma Rockstar 2020 720p WEB-DL 6CH DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b561f55436",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E01.Episodio.1.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5abdf08794",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E01.Episodio.1.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a0238f37e5",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E02.Episodio.2.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d78365eb21",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E02.Episodio.2.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_baa3b4a576",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E03.Episodio.3.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0200334f49",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E03.Episodio.3.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_692b27311e",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E04.Episodio.4.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_624cf89cc1",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E04.Episodio.4.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_719aadbda2",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E05.Episodio.5.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_178d91afdb",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E05.Episodio.5.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c28c5f60c0",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E06.Episodio.6.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_66d750e1a2",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E06.Episodio.6.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0388bda8c4",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E07.Episodio.7.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_81c753c49d",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E07.Episodio.7.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e54e1c693a",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E08.Episodio.8.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6908fc37b5",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E08.Episodio.8.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f80f6dbbd1",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E09.Episodio.9.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6726a247da",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E09.Episodio.9.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_98570315cf",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E10.Episodio.10.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_23e8f4fb4d",
+    "type": "movie",
+    "name": "Quase.Feliz.S01E10.Episodio.10.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2fa1aac296",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E01.Permissao.Para.Voltar.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_44d0a9034a",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E01.Permissao.Para.Voltar.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ff9730d7f6",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E02.Meu.Deus.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f2890ed512",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E03.Atuar.Para.Viver.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_69cdeeab86",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E04.Beijo.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9168304775",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E05.Happy.Happy.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ae94769e14",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E06.Festa.a.Tres.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_490293aabc",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E07.Um.Rio.Nos.Separa.1080p.NF.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_926a03ace4",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E07.Um.Rio.Nos.Separa.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b234c869a0",
+    "type": "movie",
+    "name": "Quase.Feliz.S02E08.Mamae.1080p.NF.WEB-DL.DDP5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_821155ab45",
+    "type": "movie",
+    "name": "Quase.Morta.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_93bc1e97e4",
+    "type": "movie",
+    "name": "Quase.uma.Rockstar.2020.1080p.NF.WEB-DL.DUAL.DDP5.1.x264-SiGLA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_521b35d395",
+    "type": "movie",
+    "name": "Quasi (2023) h264 EAC3 WEBDL-1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d80c32fc7a",
+    "type": "movie",
+    "name": "Quasi.2023.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX.DUAL-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ac24d498b4",
+    "type": "movie",
+    "name": "Quatro Amigas e Um Casamento (2012) 720p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_76f81fce2d",
+    "type": "movie",
+    "name": "Quatro Destinos 1949 dual 960x720.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_30cd4ce91e",
+    "type": "movie",
+    "name": "Quatro Dias a Teu Lado (Four Good Days) 2021 Dual audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_dcf218affd",
+    "type": "movie",
+    "name": "Quatro Historias de Fantasmas 2020 Dual audio 720p .mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d013fc7db7",
+    "type": "movie",
+    "name": "Quatro Mulheres e Um Destino Dual Audio 720p 1994.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6063b6edf8",
+    "type": "movie",
+    "name": "Quatro.Amigas.E.Um.Jeans.Viajante.2005.816p.HMAX.DD5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cdbd4fd555",
+    "type": "movie",
+    "name": "Quatro.Amigas.E.Um.Jeans.Viajante.2005.816p.HMAX.WEB-DL.DD5.1.x264-C76.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0c544aee43",
+    "type": "movie",
+    "name": "Quatro.Historias.De.Desejo.2.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1d378ee57b",
+    "type": "movie",
+    "name": "Quatro.Historias.de.Fantasmas.2020.1080p.NF.WEB-DL.DDP5.1.x264-MED.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_00868b3bb6",
+    "type": "movie",
+    "name": "Quatro.Vidas.De.Um.Cachorro.2017.1080p.BluRay-AMIABLE.DUAL-GUR.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_69504f8d3e",
+    "type": "movie",
+    "name": "Que Familia e Essa 2016 1080p BluRay x265 DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a6acb4d9b3",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E01.Humano.Ou.Monstro\u00a0.1080p.GLBO.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a9bd5f2567",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E01.Humano.Ou.Monstro\u00a0.1080p.GLBO.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f1fa91c01f",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E02.Monstros.N\u00e3o.T\u00eam.Medo.1080p.GLBO.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9ba5fb7cf0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E02.Monstros.N\u00e3o.T\u00eam.Medo.1080p.GLBO.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a80cc63718",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E03.Almo\u00e7o.De.Monstromingo.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ac3a02b117",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E03.Almo\u00e7o.De.Monstromingo.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_24c75c5a1a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E04.Quero.Quero.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9289223c18",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E04.Quero.Quero.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5375744be5",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E05.Resort.Monstro.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a38c2fcd10",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E05.Resort.Monstro.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_35e1ee1f29",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E06.Deliverson.Lanches.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a3556534b5",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E06.Deliverson.Lanches.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6115b1fc1b",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E07.Guerra.No.Gaveteiro.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fb8f2387d5",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E07.Guerra.No.Gaveteiro.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9fb6c20ac3",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E08.Talvez.Sim.Ou.Talvez.N\u00e3o.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_651089e151",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E08.Talvez.Sim.Ou.Talvez.N\u00e3o.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1b9343e3bc",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E09.Monstrocam.Lali.Pan.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_de39d5bedd",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E09.Monstrocam.Lali.Pan.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_05488b3c2d",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E10.Se.Joga.No.Terer\u00ea!.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1bee56c18d",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E10.Se.Joga.No.Terer\u00ea!.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_105956f31a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E11.Bem-Vinda.Monstrovera\u00a0.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_970c14445f",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E11.Bem-Vinda.Monstrovera\u00a0.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_47d8cbe48a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E12.Uma.Super.Visita.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8387b7002c",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E12.Uma.Super.Visita.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a0a744372c",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E13.Monstro-Olimp\u00edadas.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f6f26d177a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E13.Monstro-Olimp\u00edadas.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_be60e6aaa9",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E14.Multimorgume\u00a0.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_147abbc9f1",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E14.Multimorgume\u00a0.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ef1ed3168a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E15.Monstrobanho.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_179674b5f1",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E15.Monstrobanho.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_71ae6e6dd6",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E16.Serra.Exterminadora.De.Conflitos.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7f87cc379a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E16.Serra.Exterminadora.De.Conflitos.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_beb93725c2",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E17.O.Dia.Em.Que.a.Noite.Virou.Dia.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fa650c65d4",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E17.O.Dia.Em.Que.a.Noite.Virou.Dia.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7e8142f25b",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E18.O.Monstro.Da.L\u00e2mpada.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7a5126f74e",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E18.O.Monstro.Da.L\u00e2mpada.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c05b44c972",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E19.Eram.Os.Humanos.Astronautas.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_41880edf09",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E19.Eram.Os.Humanos.Astronautas.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c4b7b77581",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E20.Crica.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_64965f62e1",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E20.Crica.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6da15e4c91",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E21.Ded\u00e9.O.Redondo.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2efb05cac5",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E21.Ded\u00e9.O.Redondo.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_eb9fc7090d",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E22.O.Incr\u00edvel.Sr..T.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8a9ba34012",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E22.O.Incr\u00edvel.Sr..T.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_21e7c736d7",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E23.Monstrolates.Contaminados.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_800d04e7a0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E23.Monstrolates.Contaminados.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_34151afbf3",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E24.Lactus.Condensadus.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_87dcbadec6",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E24.Lactus.Condensadus.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fbec6eecc3",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E25.O.Caso.Do.Monstrogame.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_529c2403aa",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E25.O.Caso.Do.Monstrogame.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_edd699b7b4",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E26.Pregui\u00e7a.Monstro.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ac9d3e58f8",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E26.Pregui\u00e7a.Monstro.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_915d5799ce",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E27.E.Se....1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ef1a8e53b2",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E27.E.Se....1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5f2e334e2a",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E28.Os.Valent\u00f5es.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ab13e6b364",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E28.Os.Valent\u00f5es.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0f7f815ae0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E29.O.Pior.Nivermonstro.De.Todos.Os.Tempos.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c89e590bce",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E29.O.Pior.Nivermonstro.De.Todos.Os.Tempos.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d44e4b08f2",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E30.Controle.Remoto.Universal.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_775130c45e",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E30.Controle.Remoto.Universal.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b754876ce2",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E31.Deixa.Comigo.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5341471086",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E31.Deixa.Comigo.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fad1123715",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E32.Luli.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1dcdd864f0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E32.Luli.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2efa1af312",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E33.Filomena.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_456a15717b",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E33.Filomena.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3c012e71e4",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E34.N\u00e3o.Quero.Crescer.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_09295d3041",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E34.N\u00e3o.Quero.Crescer.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ca9f53ea1e",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E35.Professora.Lu\u00edsa.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a75a01fbc8",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E35.Professora.Lu\u00edsa.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_826b07f255",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E36.Nasceu.Um.Chifre.Em.Mim!.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f11058debe",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E36.Nasceu.Um.Chifre.Em.Mim!.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_916aa8b917",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E37.Ansiedade.Monstro.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_cc90489feb",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E37.Ansiedade.Monstro.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5184a2fb64",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E38.Amor.E.Confus\u00e3o.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_07e41a6224",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E38.Amor.E.Confus\u00e3o.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_926dc3a769",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E39.N\u00e3o.Conta.Pra.Ningu\u00e9m.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ac66448b20",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E39.N\u00e3o.Conta.Pra.Ningu\u00e9m.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_92b5b41662",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E40.Acampamento.Zicado.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e6bf76b4d4",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E40.Acampamento.Zicado.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a1e5a8fb22",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E41.Quem.Comeu.as.Palavras.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c8919c1f59",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E41.Quem.Comeu.as.Palavras.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_41a1140b25",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E42.Moda.Monstra.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_097d7fc83d",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E42.Moda.Monstra.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3e583fced0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E43.Eu.Sei.Mas.Esqueci.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b2a7589798",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E43.Eu.Sei.Mas.Esqueci.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3264182125",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E44.Era.Uma.Vez....1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1125e4150f",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E44.Era.Uma.Vez....1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9dff5e0801",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E45.Monstrov\u00edrus.Detectado!.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_60231c78c0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E45.Monstrov\u00edrus.Detectado!.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_be760568cd",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E46.T\u00f4.Nem.A\u00ed!\u00a0.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_24cf565aaf",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E46.T\u00f4.Nem.A\u00ed!\u00a0.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b6aba3326f",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E47.Feliz.Ano-Monstro.Novo!.1080p.GLPLAY.AAC2.0.H.264-alfaHD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_278482e538",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E47.Feliz.Ano-Monstro.Novo!.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-alfaHD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_215afc99f0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E48.Adeus.Tom.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_829977afd0",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E48.Adeus.Tom.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_34729ef4d2",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E49.Robertinho.Robertinho....\u00a0\u00a0.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_37d901c5c3",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E49.Robertinho.Robertinho....\u00a0\u00a0.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4945928c8e",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E50.O.Monstro.Que.N\u00e3o.Gosta.De.M\u00fasica.1080p.GLPLAY.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_eaa63a7f5b",
+    "type": "movie",
+    "name": "Que.Monstro.Te.Mordeu.S01E50.O.Monstro.Que.N\u00e3o.Gosta.De.M\u00fasica.1080p.GLPLAY.WEB-DL.AAC2.0.H.264-JUNi.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f29f20a54e",
+    "type": "movie",
+    "name": "Quebra de Contrato (2013) [Dub 720p].mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b65ae5d94c",
+    "type": "movie",
+    "name": "Quebrando as Regras 4 2021 1080p BluRay DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_0d175f981d",
+    "type": "movie",
+    "name": "Quebrando Regras 1 2008 Dublado 720p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_26f79a570a",
+    "type": "movie",
+    "name": "Quebrando Regras 2 (2011) [1080p.WEB-DL.DDP5.1.H264.DUAL].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a26015a8ee",
+    "type": "movie",
+    "name": "Quebrando Regras 2 2011 Dublado 720p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_459ac9fdae",
+    "type": "movie",
+    "name": "Quebrando Regras 3 - N\u00e3o Se Rendam 1080p (2016) Dual \u00c1udio BluRay -- By - Lucas Firmo.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_10f0dec10f",
+    "type": "movie",
+    "name": "Quebrando.Regras.2008.1080p.WEB-DL.DDP5.1.x264.DUAL-LAPUMiA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a11d1f499c",
+    "type": "movie",
+    "name": "Queen Sono - S01E01 - Epis\u00f3dio 1.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ad6353f928",
+    "type": "movie",
+    "name": "Queen Sono - S01E02 - Epis\u00f3dio 2.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_eb4bb6ea2e",
+    "type": "movie",
+    "name": "Queen Sono - S01E03 - Epis\u00f3dio 3.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_650715e27e",
+    "type": "movie",
+    "name": "Queen Sono - S01E04 - Epis\u00f3dio 4.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6c317258ec",
+    "type": "movie",
+    "name": "Queen Sono - S01E05 - Epis\u00f3dio 5.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_beb2cd072d",
+    "type": "movie",
+    "name": "Queen Sono - S01E06 - Epis\u00f3dio 6.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_afa9313269",
+    "type": "movie",
+    "name": "Queen.2013.1080p.NF.WEB-DL.DDP5.1.H264-Ledneks.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_953dd2ca3d",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E01.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8c55403667",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E01.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6877b70966",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E02.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_91da976f78",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E02.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a4cf15b445",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E03.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4a32bd55b7",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E03.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_67b12fec69",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E04.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_30bfa8fb4b",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E04.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_43fa271b11",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E05.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5036c22166",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E05.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2e883f9ce2",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E06.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1d58d2e7a2",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E06.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_533b4edc11",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E07.1080p.DDP2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_20d1f9b8ca",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E07.1080p.WEB-DL.DDP2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1c5f10f75d",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E08.1080p.DDP2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_45782beda9",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E08.1080p.WEB-DL.DDP2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e87a0a6904",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E09.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fa5acb3186",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E09.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c59c6cb1d6",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E10.1080p.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f7588e5dfc",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E10.1080p.WEB-DL.AAC2.0.H.264-GRANiTEN.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ad2a38db1d",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E11.2024.1080p.NF.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d92cf0d70f",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E11.2024.1080p.NF.WEB-DL.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b665bfcb49",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E12.2024.1080p.NF.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ab2b8236be",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E12.2024.1080p.NF.WEB-DL.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_565537542d",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E13.2024.1080p.NF.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_eb764a9ccd",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E13.2024.1080p.NF.WEB-DL.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_44657f3d02",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E14.2024.1080p.NF.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f1dfbb6ede",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E14.2024.1080p.NF.WEB-DL.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6db04bc681",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E15.2024.1080p.NF.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7f1ef18b0d",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E15.2024.1080p.NF.WEB-DL.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_42122914c3",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E16.2024.1080p.NF.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8bc18ef9c9",
+    "type": "movie",
+    "name": "Queen.of.Tears.S01E16.2024.1080p.NF.WEB-DL.DDP2.0.H264-HHWEB.DUAL-DKS.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7f3e67e1bd",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E01.1080p.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d70304e860",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E01.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d70304e860",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E01.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d0394b4f17",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E02.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d0394b4f17",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E02.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_326c09ece3",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E03.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_326c09ece3",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E03.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_396b601f14",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E04.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_396b601f14",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E04.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_bfb6dfe426",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E05.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_bfb6dfe426",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E05.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a8dd018ebb",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E06.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a8dd018ebb",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E06.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_41c313c50f",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E07.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_41c313c50f",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E07.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_831d4f2a26",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E08.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_831d4f2a26",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E08.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_435b0f1708",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E09.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_435b0f1708",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E09.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8e51c785c4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E10.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8e51c785c4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E10.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_32db5640d4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E11.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_32db5640d4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E11.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_837a06cfa8",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E12.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_837a06cfa8",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E12.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_794a4358a3",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E13.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_794a4358a3",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S04E13.1080p.WEB-DL.Dual.Dinho.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f91f4fda41",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E01.1080p.NF.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8a69304f3e",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E01.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8a69304f3e",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E01.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8432c5d37c",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E02.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8432c5d37c",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E02.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7a73813f7d",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E03.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7a73813f7d",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E03.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_867247ed44",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E04.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_867247ed44",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E04.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_56b40e98b4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E05.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_56b40e98b4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E05.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3d9bf06fb9",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E06.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3d9bf06fb9",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E06.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f714a88091",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E07.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f714a88091",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E07.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_35c665bea4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E08.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_35c665bea4",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E08.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7b08b51b72",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E09.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7b08b51b72",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E09.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c4f6009ed8",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E10.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c4f6009ed8",
+    "type": "movie",
+    "name": "Queen.Of.The.South.S05E10.1080p.NF.WEB-DL.DDP5.1.x264-AnjinhoDJ.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b115c4e257",
+    "type": "movie",
+    "name": "Queenpins.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-SiGLA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_fc8a75ec1e",
+    "type": "movie",
+    "name": "Quem e o Pai 2016 Dublado 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b75571253e",
+    "type": "movie",
+    "name": "Quem Quer Ser Um Milionario (2008) 1080p Dual.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_55ba8083bd",
+    "type": "movie",
+    "name": "Quem Quer Ser um Milionario 2008 Dual audio 720p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_67f15c1790",
+    "type": "movie",
+    "name": "Quem Somos Agora 2017 Dublado 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e9b33c1bc8",
+    "type": "movie",
+    "name": "Quem Vai Ficar com M\u00e1rio 2021 WEB-DL 1080p NACIONAL 2.0.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7482a9e6a5",
+    "type": "movie",
+    "name": "Quem Voce Levaria para uma Ilha Deserta 2019 1080p Dual audio.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3da6af85cf",
+    "type": "movie",
+    "name": "Quem Voce Pensa que Sou 2020 Dual-audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3a510a7472",
+    "type": "movie",
+    "name": "Quem \u00e9 Quem (HD).mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6f997fb7b4",
+    "type": "movie",
+    "name": "Quem.Cantar\u00e1.as.suas.Can\u00e7\u00f5es.2018.1080p.WEB-DL.x264.DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ef18354d4e",
+    "type": "movie",
+    "name": "Quem.Matou.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-PiA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_dca23c631b",
+    "type": "movie",
+    "name": "Quem.Matou.Sara.S03E01.Supostamente.morta.1080p.NF.DDP5.1.x264.DUAL-PD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f259133647",
+    "type": "movie",
+    "name": "Quem.Matou.Sara.S03E01.Supostamente.morta.1080p.NF.WEB-DL.DDP5.1.x264.DUAL-PD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b3b6b21c8e",
+    "type": "movie",
+    "name": "Quem.Matou.Sara.S03E02.Complexo.de.Medusa.1080p.NF.WEB-DL.DDP5.1.x264.DUAL-PD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ddb4298321",
+    "type": "movie",
+    "name": "Quem.Matou.Sara.S03E03.Viva.ou.morta.1080p.NF.WEB-DL.DDP5.1.x264.DUAL-PD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_47bcc524b5",
+    "type": "movie",
+    "name": "Quem.Matou.Sara.S03E04.Bem.vindos.ao.Centro.Medusa.1080p.NF.WEB-DL.DDP5.1.x264.DUAL-PD.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_adfa2e0d0b",
+    "type": "movie",
+    "name": "Quem.Vai.Ficar.Com.Mary.1998.1080p.BluRay.x264-FiDELiTY.Dual-Artgenone.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6f5b1d1f13",
+    "type": "movie",
+    "name": "Querem Acabar Comigo 2005 1080p BluRay x264 DUAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_f0267210af",
+    "type": "movie",
+    "name": "Queremos Matar Gunther 2017 Dual audio 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8d7e4abf8b",
+    "type": "movie",
+    "name": "Querencia 2019 1080p WEB-DL.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_331a58ad92",
+    "type": "movie",
+    "name": "Querencia 2019 1080p.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1337812ea9",
+    "type": "movie",
+    "name": "Querer \u00e9 Poder.avi",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b0b9dbee4c",
+    "type": "movie",
+    "name": "Querida Encolhi as Criancas 1989 BluRay 720p Dual.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_49ed077c67",
+    "type": "movie",
+    "name": "Querida! Estiquei o Beb\u00ea 1992 Trial \u00c1udio Dublado Bluray 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7af8523cfb",
+    "type": "movie",
+    "name": "Querida, Encolhi a Gente \u2013 1997 Dual \u00c1udio Dublado WEB-DL 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_13695eb6fd",
+    "type": "movie",
+    "name": "Querida.Mamae.2017.1080p.WEB-DL.x264-NACIONAL.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_aeb76d024c",
+    "type": "movie",
+    "name": "Queridinhas 1980 Dual-\u00c1udio Dublado WEB-DL 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ae88078d9b",
+    "type": "movie",
+    "name": "Querido Ditador 2018 Dublado 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b7e6a2b94a",
+    "type": "movie",
+    "name": "Querido Menino 2019 Dublado 1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c877c2f780",
+    "type": "movie",
+    "name": "Querido.David.2023.1080p.NF.WEB-DL.DDP5.1.x264-PiA.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_655c9b94b5",
+    "type": "movie",
+    "name": "Querido.Evan.Hansen.2021.1080p.BluRay.x264-PiGNUS.DUAL-RK.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_9825f4d625",
+    "type": "movie",
+    "name": "Quero Matar Meu Chefe (2011) [BDRip 720p Dublado].mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_56abc99b95",
+    "type": "movie",
+    "name": "Quero Matar Meu Chefe 2 (2014) [Blu-Ray 1080p Dublado].mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_07dc046be8",
+    "type": "movie",
+    "name": "Quero te Tanto! (2019) [1080p].mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e4ae2be7a1",
+    "type": "movie",
+    "name": "Quero.ser.John.Malkovich.(1999).BluRay.1080p.x264.DUAL-FG4LL4RD0.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_326d2263e1",
+    "type": "movie",
+    "name": "Quer\u00f4 A Damned Report (2007) x264 EAC3 WEBDL-1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e525b11876",
+    "type": "movie",
+    "name": "Quest for Camelot (1998) {WEBDL-1080p - [PT+EN]}.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_93286d7a77",
+    "type": "movie",
+    "name": "Quest\u00e3o de Tempo (2013) - wolverdonfilmes.com.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_5c034637cc",
+    "type": "movie",
+    "name": "Quest\u00e3o de Tempo 2013 1080p BluRay x264 DTS-EVO DUAL-BiG.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b93c84ef12",
+    "type": "movie",
+    "name": "Quigley.Down.Under.1990.1080p.BluRay.H264.AAC-RARBG.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c814d9f339",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E01.Lupe.e.Ashley.D.1080p.DSCP.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8381e4ed1e",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E01.Lupe.e.Ashley.D.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4568287e0e",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E02.Brittani.e.Sean.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_64156a1916",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E03.Teretha.e.Chad.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_445581db00",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E04.Nikki.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_608d1b4b04",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E05.Dottie.e.June.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_161f4f2370",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E06.Milla.e.Charity.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b34f914e5a",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E07.Joe.W.e.Pauline.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7f4fff8f2a",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E08.Laura.e.Shay.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_abecffb94e",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E09.Betti.Jo.e.Susan.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1429e36632",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E10.Melissa.Morris.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8191a16dc9",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S03E11.Irmaos.Assanti.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1ce53bc5c2",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E01.Kendi.e.Brandi.1080p.DSCP.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b48c106ad8",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E01.Kendi.e.Brandi.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_46bdd65b73",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E02.Erica.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d5226a2d46",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E03.Diana.e.Ashley.R.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_e6c20ab981",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E04.Kirsten.Michael.e.Roni.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d0dd4a09a8",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E05.Nicole.e.Ashley.D..1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_04efaa3756",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E06.James.e.Cynthia.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_ffdd6393ee",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E07.Lupe.e.Brittani.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_28354a40a8",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E08.Sean.e.Dottie.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_038628a594",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E09.Milla.e.Charity.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_3b4913aee6",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E10.Doug.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_113fecb5b5",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E11.June.Chad.e.Pauline.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_2fc4b85dce",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S04E12.Os.Irmaos.Assanti.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_6f00fe94e0",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E01.A.Historia.de.Janine.1080p.DSCP.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_bcf7737b36",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E01.A.Historia.de.Janine.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d399672768",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E02.A.Historia.de.Lee.Rena.e.Sarah.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8757e201bb",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E03.A.Historia.de.Sean.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7ac45cb2ce",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E04.A.Historia.de.Jennifer.Marissa.e.Liz.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_17b9930887",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E05.O.Desafio.de.Milla.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_c63e2fc00e",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E06.Familia.de.uma.tonelada.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_8ba15b6547",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E07.Tamy.Karina.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_764116961b",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E08.David.Benji.Erica.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_b303fe096d",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E09.Alicia.e.Pauline.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_1999dc73e0",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E10.Dottie.e.Cynthia.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_4beaef80ed",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E11.Charity.e.Charly.Teretha.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_25a75d1079",
+    "type": "movie",
+    "name": "Quilos.Mortais.Como.Eles.Estao.Agora.S05E12.Os.Irmaos.Assanti.1080p.DSCP.WEB-DL.AAC.H264-sh4down.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_d96b26f8ce",
+    "type": "movie",
+    "name": "Quincas Berro d\u2019\u00c1gua 2010 Nacional 080p.BluRay.H264.AAC-VXT.mp4",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7ee756c5c6",
+    "type": "movie",
+    "name": "Quincas.Berro.dAgua.AKA.The.Two.Deaths.of.Quincas.Wateryell.2010.1080p.BluRay.x264-HANDJOB.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7ee756c5c6",
+    "type": "movie",
+    "name": "Quincas.Berro.dAgua.AKA.The.Two.Deaths.of.Quincas.Wateryell.2010.1080p.BluRay.x264-HANDJOB.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_7ee756c5c6",
+    "type": "movie",
+    "name": "Quincas.Berro.dAgua.AKA.The.Two.Deaths.of.Quincas.Wateryell.2010.1080p.BluRay.x264-HANDJOB.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  },
+  {
+    "id": "custom_a3ffd2a252",
+    "type": "movie",
+    "name": "Quo Vadis, Aida! (2021) h264 EAC3 WEBDL-1080p.mkv",
+    "poster": "https://via.placeholder.com/342x513?text=No+Poster",
+    "posterShape": "poster"
+  }
+]
