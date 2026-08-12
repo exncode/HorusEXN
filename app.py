@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-APP_ID = "com.rubem.animezey"
+APP_ID = "com.scrapper.animezey"
 APP_NAME = "Animezey Search"
 APP_VERSION = "1.0.0"
 
