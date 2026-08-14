@@ -2,18 +2,14 @@
   "version": 1,
   "items": [
     {
-      "imdb_id": "tt0877057",
       "name": "Death Note",
-      "type": "anime",
-      "folder": "0:/Animes/Death%20Note/Dual%20Áudio%20-%20BD%201080p/",
-      "episode_format": "2"
+      "imdb_id": "tt0877057",
+      "search": "Death Note - %EE% [BD 1080p][Dual Áudio].mkv",
     },
     {
-      "imdb_id": "tt0280249",
       "name": "Dragon Ball",
-      "type": "anime",
-      "folder": "0:/Animes/Dragon%20Ball/Múltiplas%20Legendas%20e%20Múltiplos%20Áudios%20-%20960p/",
-      "episode_format": "3"
+      "imdb_id": "tt0280249",
+      "search": "Dragon Ball - %EEE% [960p][Multi Subs][Multi Áudios].mkv",
     }
   ]
 }
