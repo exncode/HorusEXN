@@ -1,13 +1,10 @@
-{
-  "version": 1,
-  "items": [
-    {
-      "imdb_id": "tt0877057",
-      "search": "Death Note - zEEz [BD 1080p][Dual Áudio].mkv",
-    },
-    {
-      "imdb_id": "tt0280249",
-      "search": "Dragon Ball - zEEEz [960p][Multi Subs][Multi Áudios].mkv",
-    }
-  ]
-}
+[
+  {
+    "imdb_id": "tt5537534",
+    "pattern": "Ajin - {episode:02d} (BD 1920x1080 x.264 FLAC).mkv"
+  },
+  {
+    "tmdb_id": "tt0000000",
+    "pattern": "0000000.mkv"
+  }
+]
