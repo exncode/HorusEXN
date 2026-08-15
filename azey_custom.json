@@ -1,10 +1,4 @@
 [
-  {
-    "imdb_id": "tt5537534",
-    "pattern": "Ajin - {episode:02d} (BD 1920x1080 x.264 FLAC).mkv"
-  },
-  {
-    "tmdb_id": "tt0000000",
-    "pattern": "0000000.mkv"
-  }
+  {"imdb_id": "tt5537534", "pattern": "Ajin - {episode:02d} (BD 1920x1080 x.264 FLAC).mkv"},
+  {"imdb_id": "tt0877057", "pattern": "Death Note - {episode:02d} [BD 1080p][Dual Áudio].mkv"}
 ]
