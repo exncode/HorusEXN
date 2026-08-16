@@ -6,5 +6,6 @@
 {"imdb_id": "tt0088509", "pattern": "Dragon Ball - {ep:3} [960p][Multi Subs][Multi Áudios].mkv"},
 {"imdb_id": "tt0280249", "pattern": "Dragon Ball - {ep:3} [960p][Multi Subs][Multi Áudios].mkv"},
 {"imdb_id": "tt0214341", "pattern": "Dragon Ball Z - {ep:3} [720p][Múltiplas Legendas][Tetra Áudio].mkv"},
-{"imdb_id": "tt0121220", "pattern": "Dragon Ball Z - {ep:3} [720p][Múltiplas Legendas][Tetra Áudio].mkv"}
+{"imdb_id": "tt0121220", "pattern": "Dragon Ball Z - {ep:3} [720p][Múltiplas Legendas][Tetra Áudio].mkv"},
+{"imdb_id": "tt1409055", "pattern": "dbk {ep:3}"}
 ]
