@@ -1,4 +1,5 @@
 [
-  {"imdb_id": "tt5537534", "pattern": "Ajin - {episode:02d} (BD 1920x1080 x.264 FLAC).mkv"},
-  {"imdb_id": "tt0877057", "pattern": "Death Note - {episode:02d} [BD 1080p][Dual Áudio].mkv"}
+{"imdb_id": "tt2560140", "pattern": "[Anipakku] Shingeki no Kyojin {ep:2}.mkv"},
+{"imdb_id": "tt0088509", "pattern": "Dragon Ball - {ep:3} [960p][Multi Subs][Multi Áudios].mkv"},
+{"imdb_id": "tt0088509", "pattern": "Dragon Ball - {ep:3} [960p][Multi Subs][Multi Áudios].mkv"}
 ]
