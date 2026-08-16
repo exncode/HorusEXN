@@ -1,10 +1,10 @@
 [
-{"imdb_id": "tt2560140", "pattern": "[Anipakku] Shingeki no Kyojin {ep:2}.mkv"},
-{"imdb_id": "tt7222086", "pattern": "[Aenianos] Made in Abyss - {ep:2} [1080p].mkv"},
-{"imdb_id": "tt0112159", "pattern": "[Mattmurdock] Neon Genesis Evangelion - {ep:2} [BD 1080p][Múltiplos Áudios].mkv"},
-{"imdb_id": "tt1799631", "pattern": "[Infinite] Ao no Exorcist - {ep:2} [BD 1080p].mkv"},
-{"imdb_id": "tt0088509", "pattern": "Dragon Ball - {ep:3} [960p][Multi Subs][Multi Áudios].mkv"},
-{"imdb_id": "tt0280249", "pattern": "Dragon Ball - {ep:3} [960p][Multi Subs][Multi Áudios].mkv"},
-{"imdb_id": "tt0214341", "pattern": "Dragon Ball Z - {ep:3} [720p][Múltiplas Legendas][Tetra Áudio].mkv"},
-{"imdb_id": "tt0121220", "pattern": "Dragon Ball Z - {ep:3} [720p][Múltiplas Legendas][Tetra Áudio].mkv"},
+{"imdb_id": "tt2560140", "pattern": "Anipakku Shingeki no Kyojin {ep:2}.mkv"},
+{"imdb_id": "tt7222086", "pattern": "Aenianos Made in Abyss {ep:@} 1080p.mkv"},
+{"imdb_id": "tt0112159", "pattern": "Mattmurdock Neon Genesis Evangelion {ep:2} BD 1080p Múltiplos Áudios.mkv"},
+{"imdb_id": "tt1799631", "pattern": "Infinite Ao no Exorcist {ep:2} BD 1080p.mkv"},
+{"imdb_id": "tt0088509", "pattern": "Dragon Ball {ep:3} 960p Multi Subs Multi Áudios.mkv"},
+{"imdb_id": "tt0280249", "pattern": "Dragon Ball {ep:3} 960p Multi Subs Multi Áudios.mkv"},
+{"imdb_id": "tt0214341", "pattern": "Dragon Ball Z {ep:3} 720p Múltiplas Legendas Tetra Áudio.mkv"},
+{"imdb_id": "tt0121220", "pattern": "Dragon Ball Z {ep:3} 720p Múltiplas Legendas Tetra Áudio.mkv"},
 ]
